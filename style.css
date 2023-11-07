@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.digital-icon{
+    height: 100px;
+    width: 100px;
+}
+.icon-card{
+    border: 0px none;
+}
+.icon-card-body{
+    text-align: center;
+}
+.icon-card-footer{
+    background: transparent;
+    text-align: center;
+    border: 0px none;
+    font-weight: bold;
+}
+.icon-links{
+    text-decoration: none;
+    color: #333;
+}
